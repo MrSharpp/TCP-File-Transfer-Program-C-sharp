@@ -8,4 +8,4 @@ A simple tcp server, client. Communicates through TCP protocol.
 
 
 # Note
-You can access the tcpServer in you LAN too. Just using any tcpClient for any OS, and connectes to your Host's IP and port 13000.
+You can access the tcpServer in your LAN too. Just using any tcpClient for any OS, and connectes to your Host's IP and port 13000.
